@@ -63,4 +63,3 @@ per ogni appello d'Esame a cui lo Studente ha partecipato, è necessario memoriz
 - student_id (BIGINT) - foreign key - NOT NULL
 - teacher_id (BIGINT) - foreign key - NOT NULL
 - vote (TINYINT) - NOT NULL
-- result (VARCHAR(20)) - NOT NULL
